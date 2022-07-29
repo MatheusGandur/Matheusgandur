@@ -1,5 +1,5 @@
 ## Olá, eu sou o Matheus Gandur !
-* Hoje estou atuando como desenvolvedor (Back/Front), de forma ou remota.
+* Hoje estou atuando como desenvolvedor (Back/Front), de forma remota.
 * Atuando como desenvolvedor Back-End com início em 2021, trabalhando com SQLServe 2019, mas possuo conhecimento em Java e atuando com desenvolvendo Front-End utilizando HTML e CSS.
 
 <div align="center">
